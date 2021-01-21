@@ -1,0 +1,82 @@
+.uno {
+    max-height: 64px ;
+}
+
+.navtext {
+
+    font-size: 32px;
+    padding: 8px 0;
+
+  
+}
+
+.dos {
+    background-color: rgb(230, 228, 228);
+}
+
+.logo {
+   padding-left: 24px; 
+   width: 70px; 
+   height: auto; 
+}
+
+.banr {
+    padding-top: 32px; 
+    padding-bottom: 32px; 
+    padding-left: 24px;
+    padding-right: 24px;   
+}
+
+
+.txtbnr {
+    margin-top: 40%; 
+}
+
+.txtbnrmiddle {
+    
+    padding-top: 5%;
+    padding-bottom: 5%; 
+
+}
+
+.txtbnrbttm {
+    margin-bottom: 40%; 
+}
+
+.startbtn {
+
+    background-color: #5c5d5c; 
+    color: white;
+    padding: 8px 0px; 
+    width: 70%; 
+}
+
+h1, h3 {
+     
+    color: #3b3b3b; 
+}
+
+.card-img-top {
+
+    max-width: 30%; 
+    height: auto;
+}
+
+.card {
+  margin-top: 32px; 
+  
+}
+
+a {
+
+    text-decoration: none;
+}
+
+.lastcard {
+
+    background-color: rgb(230, 228, 228);
+}
+
+.card-body{
+    margin-top: 50px; 
+}
